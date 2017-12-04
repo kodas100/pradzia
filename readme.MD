@@ -76,10 +76,9 @@ Būtinos integracijos
 - SODRA IS
 - JAR
 
-6. Surenkama komanda, padaromas grafikas, pasiskirtoma darbais.
 
 # Projekto trūkumų išgryninimas
-Šioje dalyje siūlyčiau eiti prie esminių problemų gryninimo
+Šioje dalyje siūlyčiau eiti prie esminių problemų gryninimo. 
 1. Interoperability
 2. Sistemos greitis
 3. Neefektyvūs programinės įrangos (duomenų bazės) pasirinkimas. Analizė: http://nbviewer.jupyter.org/gist/sirex/13420936108549cea62668521dedaffe
