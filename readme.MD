@@ -25,9 +25,9 @@ Atnaujinti Lietuvos sveikatos apsaugos informacinę sistemą.
 6. Dirbti iteracijomis
 
 ## Kodas 100 Komanda
-Paulius Rimavicius.
-Justina Marija Jančiauskienė. Community manager (Bendruomenes vadove/koordinatore/globeja>)
-(Kokiu budu patenkama?)
+- Paulius Rimavičius.
+- Justina Marija Jančiauskienė. Community manager (Bendruomenes vadove/koordinatore/globeja>)
+- (Kokiu budu patenkama?)
 
 ## Suinteresuotos salys
 1. Jaunuju gydytoju asociacija (JGA)
