@@ -1,5 +1,5 @@
 # KODAS 100
-Kodas 100 yra visuomenine iniciatyva skirta pagerinti Lietuvos sveikatos apsaugos informacine sistema ir sukurti pagrinda kitoms Lietuvos informacinėms sistemos tobulinimo iniciatyvoms.
+Kodas 100 yra visuomenine iniciatyva skirta pagerinti Lietuvos sveikatos apsaugos informacinę sistemą ir sukurti pagrindą kitų Lietuvos informacinių sistemos tobulinimo iniciatyvoms.
 
 https://kodas100.lt
 
