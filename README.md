@@ -1,5 +1,6 @@
 # KODAS 100
 Kodas 100 yra visuomenine iniciatyva skirta pagerinti Lietuvos sveikatos apsaugos informacine sistema ir sukurti pagrinda kitoms Lietuvos informacinėms sistemos tobulinimo iniciatyvoms.
+
 https://kodas100.lt
 
 ## Ivadas
@@ -94,8 +95,8 @@ Būtinos integracijos
 
 # Nuorodos
 ELEKTRONINĖS SVEIKATOS PASLAUGŲ IR BENDRADARBIAVIMO INFRASTRUKTŪROS INFORMACINĖ SISTEMA
-https://sam.lrv.lt/uploads/sam/documents/files/Veiklos_sritys/E.%20sveikata/El._sveikatos_paslaugu_ir_bendradarbiavimo_infrastrukturos_IS/ESPBIISspecifikacija.pdf
-https://sam.lrv.lt/lt/veiklos-sritys/e-sveikata/elektronine-sveikatos-paslaugu-ir-bendradarbiavimo-infrastrukturos-informacine-sistema
+- https://sam.lrv.lt/uploads/sam/documents/files/Veiklos_sritys/E.%20sveikata/El._sveikatos_paslaugu_ir_bendradarbiavimo_infrastrukturos_IS/ESPBIISspecifikacija.pdf
+- https://sam.lrv.lt/lt/veiklos-sritys/e-sveikata/elektronine-sveikatos-paslaugu-ir-bendradarbiavimo-infrastrukturos-informacine-sistema
 
 # Kodas 100 žiniasklaidoje
-https://sam.lrv.lt/lt/veiklos-sritys/e-sveikata/elektronine-sveikatos-paslaugu-ir-bendradarbiavimo-infrastrukturos-informacine-sistema
+- https://sam.lrv.lt/lt/veiklos-sritys/e-sveikata/elektronine-sveikatos-paslaugu-ir-bendradarbiavimo-infrastrukturos-informacine-sistema
