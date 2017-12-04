@@ -27,3 +27,15 @@ Būtinos integracijos
 - iDrug
 - SODRA IS
 - JAR
+
+# Nefukciniai reikalavimai
+- LifeRay frameworkas		
+- Oracle DB		
+- Fhir DSTU1 + atom feed		
+		
+- GDPR		
+	- Pateikti pacientui informaciją, kuri laikoma IS	
+	- Pateikti informaciją pacientui, kas matė kokius jo duomenis	
+	- Šifruota duomenų bazė (tikrus duomenis gali matyti tik autorizuoti asmenys)	
+- Informacija pasiekiama per API (ligoninėms, turinčioms vidines sistemas) / WEN interface (tiems, kas neturi vidinių sistemų)		
+- Paciento duomenis vietoj paciento gali peržiūrėti jo įgaliotas asmuo (sutuoktinis / tėvai)		
