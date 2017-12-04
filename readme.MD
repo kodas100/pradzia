@@ -1,5 +1,5 @@
 # KODAS 100
-Kodas 100 yra visuomenine iniciatyva skirta pagerinti Lietuvos sveikatos apsaugos informacine sistema ir sukurti pagrinda kitoms Lietuvos informacinėms sistemos tobulinimo iniciatyvoms.
+Kodas 100 yra visuomenine iniciatyva skirta pagerinti Lietuvos sveikatos apsaugos informacinę sistemą ir sukurti pagrindą kitų Lietuvos informacinių sistemų tobulinimo iniciatyvoms.
 https://kodas100.lt
 
 ## Ivadas
@@ -83,7 +83,8 @@ Būtinos integracijos
 Šioje dalyje siūlyčiau eiti prie esminių problemų gryninimo
 1. Interoperability
 2. Sistemos greitis
-3. Neefektyvūs programinės įrangos (duomenų bazės) pasirinkimas. M. Zimnickas: "Projektas nebuvo sekmingas, kadangi projetko valdyme daugiausiai dalyvavo biurokratai" siulo grupes kurioje buvo atstovaujamos ivairios salys. https://www.facebook.com/groups/1972865706318006/permalink/1973702002901043/ 
+3. Neefektyvūs programinės įrangos (duomenų bazės) pasirinkimas. Analizė: http://nbviewer.jupyter.org/gist/sirex/13420936108549cea62668521dedaffe
+4. Nepakankamas suinteresuotų šalių įtraukimas į projekto valdymą. M. Zimnickas: "Projektas nebuvo sekmingas, kadangi projetko valdyme daugiausiai dalyvavo biurokratai" siulo grupes kurioje buvo atstovaujamos ivairios salys. https://www.facebook.com/groups/1972865706318006/permalink/1973702002901043/ 
 
 # Kitos idėjos ir pasiūlymai.
 Čia dedame dar patvirtinimo/palaikymo negavusias idėjas.
@@ -94,8 +95,8 @@ Būtinos integracijos
 
 # Nuorodos
 ELEKTRONINĖS SVEIKATOS PASLAUGŲ IR BENDRADARBIAVIMO INFRASTRUKTŪROS INFORMACINĖ SISTEMA
-https://sam.lrv.lt/uploads/sam/documents/files/Veiklos_sritys/E.%20sveikata/El._sveikatos_paslaugu_ir_bendradarbiavimo_infrastrukturos_IS/ESPBIISspecifikacija.pdf
-https://sam.lrv.lt/lt/veiklos-sritys/e-sveikata/elektronine-sveikatos-paslaugu-ir-bendradarbiavimo-infrastrukturos-informacine-sistema
+- https://sam.lrv.lt/uploads/sam/documents/files/Veiklos_sritys/E.%20sveikata/El._sveikatos_paslaugu_ir_bendradarbiavimo_infrastrukturos_IS/ESPBIISspecifikacija.pdf
+- https://sam.lrv.lt/lt/veiklos-sritys/e-sveikata/elektronine-sveikatos-paslaugu-ir-bendradarbiavimo-infrastrukturos-informacine-sistema
 
 # Kodas 100 žiniasklaidoje
-https://sam.lrv.lt/lt/veiklos-sritys/e-sveikata/elektronine-sveikatos-paslaugu-ir-bendradarbiavimo-infrastrukturos-informacine-sistema
+- https://sam.lrv.lt/lt/veiklos-sritys/e-sveikata/elektronine-sveikatos-paslaugu-ir-bendradarbiavimo-infrastrukturos-informacine-sistema
