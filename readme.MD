@@ -48,7 +48,6 @@ Dėl lėtai veikiančios sistemos, vienos vaistininkės/vaistinės vedėjos mana
 ```
 
 ## Projekto specifikacijos analizė 
-# Specifikacijos turinys
 ESPBI    
 - Elektroniniai sveikatos įrašai ir jų mainai
 - Siuntimai (konsultuoti / gydyti / tyrimams / reabilitacija)
