@@ -4,6 +4,7 @@ https://kodas100.lt
 
 ## Įvadas
 Ši iniciatyva gimė matant kaip neefektyviai tvarkomas valstybinis IT ūkis. Išleidžiama 40 mln. eurų. Sukuriama sistema, kuri net po pusės metų po paleidimo stringa.
+
 Pradiniame etape buvo pastebėti šie dabartinės sistemos trūkumai: interoparability - Dauguma sveikatos sistemos įstaigų neprisijungia arba turi savo sistemą, kuri neprijunta; sistemos greitis -  kuo daugiau receptų asmeniui yra išrašyta anksčiau, tuo ilgiau krauna. Dideli duomenų bazės (Oracle) palaikymo kaštai.
 Projekto metu bus bandoma įsigilinti į suinteresuotų šalių poreikius, sistemos trūkumų priežastis bei pasiūlyti sistemos patobulinimus, kurie darbą su sistema padarytų spartesnį:
 * "User experience" patobulinimai - net jei sistema lėta, jeigu užduočių atlikimui reikalinga mažiau žingsnių - galutinio vartotojo UX pagerėja.
@@ -21,6 +22,7 @@ Atnaujinti Lietuvos sveikatos apsaugos informacinę sistemą.
 2. Užtikrinti vyriausybės pagalbą, kad piliečių pagalba būtų priimta.
 3. Suformuoti modernius IT sistemų kūrimo principus. (Open source pvz. github'e ir tt)
 
+
 ## PLANAS A: IŠŠŪKIS PRIIMAMAS (darbai)
 
 1. Išnagrinėti specifikacija.
@@ -37,10 +39,12 @@ Atnaujinti Lietuvos sveikatos apsaugos informacinę sistemą.
    
 ## Kodas 100 Komanda
 - Paulius Rimavičius.
-- Justina Marija Jančiauskienė. Community manager (Bendruomenes vadove/koordinatore/globeja>)
+- Justina Marija Jančiauskienė. Community manager (Bendruomenes vadove/koordinatore/globėja>)
 - (Kokiu budu patenkama?)
 
+
 ## Suinteresuotos šalys
+
 1. Jaunųjų gydytojų asociacija (JGA)
 2. Sveikatos apsaugos ministerija
 3. VUL SK (?)
@@ -55,16 +59,19 @@ Svarbu surinkti sistemos naudotojų komentarus.
 
 > Dėl lėtai veikiančios sistemos, vienos vaistininkės/vaistinės vedėjos manau naudingas pastebėjimas nustatant "diagnozę", kad kuo daugiau receptų asmeniui yra išrašyta anksčiau, tuo ilgiau krauna. Jei pvz zmogus pirma karta perka pgl el.receptą, tai užkrauna žymiai greičiau. O jei jau pirko kokius 8 kartus ir dar išrašyti kokie 3 receptai, tai be 15 min neužkraus...ir dar pridursiu, kad nuo užpraeito ketvirtadienio sakė jau nebuvo dienų kad išvis neužkrautų (kas vaistininkams jau didžiulė laimė). (Laima Šidlauskienė)
 
+
 # Projekto trūkumų išgryninimas
 Šioje dalyje siūlyčiau eiti prie esminių problemų gryninimo. 
 1. Interoperability
 2. Sistemos greitis
 3. Neefektyvūs programinės įrangos (duomenų bazės) pasirinkimas. Analizė: http://nbviewer.jupyter.org/gist/sirex/13420936108549cea62668521dedaffe
+
 4. Nepakankamas suinteresuotų šalių įtraukimas į projekto valdymą. M. Zimnickas: "Projektas nebuvo sekmingas, kadangi projekto valdyme daugiausiai dalyvavo biurokratai" siūlo grupes kuriose būtų atstovaujamos įvairios šalys. https://www.facebook.com/groups/1972865706318006/permalink/1973702002901043/ 
+
 
 # Kitos idėjos ir pasiūlymai.
 Čia dedame dar patvirtinimo/palaikymo negavusias idėjas.
-- Code4Vilnius. Organizatoriu (Povilas Poderskis) patirtis
+- Code4Vilnius. Organizatorių (Povilas Poderskis) patirtis
 - Darius Barušauskas. Concept to Clinic Open Source challenge. https://www.facebook.com/groups/1972865706318006/permalink/1973643686240208/
 - http://www.eurorec.org/
 - Svetainėje būtinai laikrodukas, per kuri laiką iššūkį reikia priimti arba atmesti
