@@ -40,11 +40,38 @@ Atnaujinti Lietuvos sveikatos apsaugos informacinę sistemą.
 ## Sistemos naudotoju komentarai
 Svarbu surinkti sistemos naudotojų komentarus.
 ```
-Sveiki. Esu VUL SK gydytojas neurologas ir Jaunųjų gydytojų asociacijos (JGA) valdybos narys. JGA be galo džiaugiasi šia IT specialistų iniciatyva. E. sveikatos tema susidomėjome daugiau nei prieš metus, kadangi tarp asmens sveikatos priežiūros įstaigų informacinių sistemų skirtumai yra astronominiai, ir laisvu nuo darbo metu į e. sveikatos temą gilinamės bei stengiamės teikti racionalius pasiūlymus SAM. Deja, dėl įvairių priežasčių absoliučiai nematome lyderystės. Jau daugiau nei metus sekame E. sveikatos valdybos SAM veiklą, o nuo 2017 m. birželio esame į traukti į pačią valdybą, tad pradedame suprasti užkulisius. Mes iškėlėme Lietuvos vyriausiojo e. sveikatos architekto idėją, taip pat siekėme, kad būtų įkurtas e. sveikatos kompetencijų centras. Savo iniciatyva pavasarį buvome nuvykę į Estiją, kur bendravome su beveik visais svarbiausiais eHealth stakeholder'iais, susidarėme gerą įspūdį apie pačią Estų e. sveikatos sistemą, pradėjome aktyvų bendradarbiavimą. Visus pokalbius esame nufilmavę. Prieš mėnesį pasikvietemė estus, kad pasidalintų savo įspūdžiias su SAM ir E. sveikatos valdyba. Rugsėjį buvau nuvykęs į Kopenhagą, paprašiau kad Pasaulio sveikatos organizacijos atsakingi asmenys peržiūrėtų ir pateiktų pasiūlymus naujai ruošiamam Lietuvos E. sveikatos plėtros priemonių planui. Bandėme įtraukti IT specialistus, tačiau nesisekė - pats savo iniciatyva organizavau Oxbridge'o absolventų, INFOBALT ir kitų IT specialistų vizitą susipažinti su kasdieniu gydytojo darbu VUL SK ir ten naudojama ELI sistema, nuvykome į jungtinį inovatyvios medicinos centrą, kur pabendravome su ją kūrusiais IT specialiastais, po to į Registrų centrą, kurie pasakojo apie ESPBI IS, taip pat į ligonių kasą, kuri turi SVEIDRA sistemą. Deja, didesnio IT specialistų susidomėjimo nesulaukėme - dėl to esame be galo laimingi, kad iniciatyva pradeda rastis jūsų pačių bendruomenėje. Todėl kaip jaunieji gydytojai labai norėtume pasidalinti savo įžvalgomis apie dabartinę e. sveikatos situaciją ir pasiūlymais, kuriuos patys esame suformulavę po vizito į Estiją. Kadangi patys "įsiprašėme" į E. sveikatos valdybą, manau, kad mūsų kaip vartotojų ir jūsų kaip kūrėjų bendruomenės turi labai rimtų taškų bendradarbiauti.
+Sveiki. Esu VUL SK gydytojas neurologas ir Jaunųjų gydytojų asociacijos (JGA) valdybos narys. JGA be galo
+džiaugiasi šia IT specialistų iniciatyva. E. sveikatos tema susidomėjome daugiau nei prieš metus,
+kadangi tarp asmens sveikatos priežiūros įstaigų informacinių sistemų skirtumai yra astronominiai, ir
+laisvu nuo darbo metu į e. sveikatos temą gilinamės bei stengiamės teikti racionalius pasiūlymus SAM.
+Deja, dėl įvairių priežasčių absoliučiai nematome lyderystės. Jau daugiau nei metus sekame E.
+sveikatos valdybos SAM veiklą, o nuo 2017 m. birželio esame į traukti į pačią valdybą, tad pradedame
+suprasti užkulisius. Mes iškėlėme Lietuvos vyriausiojo e. sveikatos architekto idėją, taip pat
+siekėme, kad būtų įkurtas e. sveikatos kompetencijų centras. Savo iniciatyva pavasarį buvome nuvykę į
+Estiją, kur bendravome su beveik visais svarbiausiais eHealth stakeholder'iais, susidarėme gerą įspūdį
+apie pačią Estų e. sveikatos sistemą, pradėjome aktyvų bendradarbiavimą. Visus pokalbius esame
+nufilmavę. Prieš mėnesį pasikvietemė estus, kad pasidalintų savo įspūdžiias su SAM ir E. sveikatos
+valdyba. Rugsėjį buvau nuvykęs į Kopenhagą, paprašiau kad Pasaulio sveikatos organizacijos atsakingi
+asmenys peržiūrėtų ir pateiktų pasiūlymus naujai ruošiamam Lietuvos E. sveikatos plėtros priemonių
+planui. Bandėme įtraukti IT specialistus, tačiau nesisekė - pats savo iniciatyva organizavau Oxbridge'o
+absolventų, INFOBALT ir kitų IT specialistų vizitą susipažinti su kasdieniu gydytojo darbu VUL SK ir ten
+naudojama ELI sistema, nuvykome į jungtinį inovatyvios medicinos centrą, kur pabendravome su ją
+kūrusiais IT specialiastais, po to į Registrų centrą, kurie pasakojo apie ESPBI IS, taip pat į ligonių
+kasą, kuri turi SVEIDRA sistemą. Deja, didesnio IT specialistų susidomėjimo nesulaukėme - dėl to esame
+be galo laimingi, kad iniciatyva pradeda rastis jūsų pačių bendruomenėje. Todėl kaip jaunieji gydytojai
+labai norėtume pasidalinti savo įžvalgomis apie dabartinę e. sveikatos situaciją ir pasiūlymais,
+kuriuos patys esame suformulavę po vizito į Estiją. Kadangi patys "įsiprašėme" į E. sveikatos
+valdybą, manau, kad mūsų kaip vartotojų ir jūsų kaip kūrėjų bendruomenės turi labai rimtų taškų
+bendradarbiauti.
 ```
 
 ```
-Dėl lėtai veikiančios sistemos, vienos vaistininkės/vaistinės vedėjos manau naudingas pastebėjimas nustatant "diagnozę", kad kuo daugiau receptų asmeniui yra išrašyta anksčiau, tuo ilgiau krauna. Jei pvz zmogus pirma karta perka pgl el.receptą, tai užkrauna žymiai greičiau. O jei jau pirko kokius 8 kartus ir dar išrašyti kokie 3 receptai, tai be 15 min neužkraus...ir dar pridursiu, kad nuo užpraeito ketvirtadienio sakė jau nebuvo dienų kad išvis neužkrautų (kas vaistininkams jau didžiulė laimė). (Laima Šidlauskienė)
+Dėl lėtai veikiančios sistemos, vienos vaistininkės/vaistinės vedėjos manau naudingas pastebėjimas
+nustatant "diagnozę", kad kuo daugiau receptų asmeniui yra išrašyta anksčiau, tuo ilgiau krauna. Jei pvz
+zmogus pirma karta perka pgl el.receptą, tai užkrauna žymiai greičiau. O jei jau pirko kokius 8 kartus ir
+dar išrašyti kokie 3 receptai, tai be 15 min neužkraus...ir dar pridursiu, kad nuo užpraeito
+ketvirtadienio sakė jau nebuvo dienų kad išvis neužkrautų (kas vaistininkams jau didžiulė laimė).
+(Laima Šidlauskienė)
 ```
 
 # Projekto trūkumų išgryninimas
