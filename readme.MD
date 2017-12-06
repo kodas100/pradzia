@@ -20,7 +20,7 @@ Atnaujinti Lietuvos sveikatos apsaugos informacinę sistemą.
 ## Roadmap
 1. Sukurti svetainę, kurioje pateikiama informacija, kas per iššūkis, kokie tikslai, terminai.
 2. Užtikrinti vyriausybės pagalbą, kad piliečių pagalba būtų priimta.
-3. Suformuoti modernius IT sistemų kūrimo principus. (Open source pvz. github'e ir tt)
+3. Suformuoti modernius IT sistemų kūrimo principus (Open source, GitHub, ir t.t.). Taip pat užtikrinti, jog sistemos yra nuolat tobulinamos, vystomos ir kaip įmanoma arčiau naujausių standartų (kad nebūtų tokių dalykų kaip "veikia tik su X naršykle", 10 metų vėluojama su responsivess, vartotojai ir UX pasktinėje vietoje).
 
 
 ## PLANAS A: IŠŠŪKIS PRIIMAMAS (darbai)
