@@ -52,6 +52,20 @@ Atnaujinti Lietuvos sveikatos apsaugos informacinę sistemą.
 5. EuroRec http://www.eurorec.org/
 
 # Situacijos analizė
+
+## Registrų Centro paaiškinimai
+1. Sistema veikia REST api pagrindu, naudojamas FHIR(HL7) (medicininiams duomenims skirtas) REST formatas. Problema, kad darant užklausas per REST nėra ribojamas duomenų kiekis, t.y. galima suformuoti užklausą, kuri gražina visus duomenis, nėra nustatytas joks maksimalus LIMITAS. Tokios užklausos pjauna DB. Išorinės sistemos kurios jungiasi prie API, kurių yra apie 30, tiesiog laiks nuo laiko "užmuša" DB. 
+2. Sistemos gamintojas suprojektavo sistemą taip, kad gavus kažkokią užklausą į REST api, ta užklausa yra konvertuojama į SQL užklausą, t.y. nėra individualių SQL užklausų, kurias galima būtų tiuninti.
+3. Yra keletas lentelių, į kurias yra "loginama" visi vartotojų veiksmai (na toks savotiškas logas į DB, kas labai smarkiai užkrauna DB), ir vartotojai daro SELECT'us iš tų lentelių, kad gautų prieigos teises. Gaunasi, kad sistema, norėdama užtikrinti, ar vartotojas gali pasiekti kažkokią informaciją, turi daryti FULL SCAN per lentelę iš 100 milijonų įrašų (O tų įrašų kiekis kaupiasi eksponentišai, po kelių mėn. gali būti ir milijardas įrašų).
+4. RC viską iš esmės nori spręsti pirkdami naujus core'us, naujas licencijas ir tt.
+
+Kiti duomenys, ką pavyko surinkti:
+- Šiuo metu naudojami 3 fiziniai Oracle DB serveriai, po 6 core'us, Enterprise licencijos (standartinė kaina $50k). 3x6x50k = $900k už licencijas. Šiuo metu vyksta/vyko konkursas nupirkti naujų core'ų ir naujų Oracle DB licencijų.
+- Platforma: JAVA SPRING ir kiti JAVA framework'ai, hibernate ORM.
+- Galėtumėm gauti labiausiai stabdančias "Slow queries", per ministeriją (nepasižimėjau kurią).
+- Concurrent user'ių būna iki kelių šimtų vienu metu.
+- Kiekvieną dieną RC veikimo ataskaitą siunčia į ministeriją, pej jie pasidalintų galėtumėm gauti. Bandėm įrodyti, kad gal viešai tiesiog tą statistiką įdėtų, nesėkmingai.
+
 ## Sistemos naudotoju komentarai
 Svarbu surinkti sistemos naudotojų komentarus.
 
