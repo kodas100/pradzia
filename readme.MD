@@ -38,11 +38,9 @@ Atnaujinti Lietuvos sveikatos apsaugos informacinę sistemą.
 1. Dirbti iteracijomis (Išsigryninti smulkius tikslus, dirbti ties jų įgyvendinimu, reguliariai susitikti aptarimui - ir vėl išsigryninti sekančius smulkius tikslus).
    
 ## Kodas 100 Komanda
-- Paulius Rimavičius - idėjos iniciatorius
-- Justina Marija Jančiauskienė. Community manager (Bendruomenes vadove/koordinatore/globėja>)
-- Tomas Smagurauskas - atsakingas už numatytą analitinę dalį
-- Donatas Prialgauskas - projekto vadovas
-
+- Justina Marija Jančiauskienė. KODAS100 bendruomenės atstovė
+- Donatas Prialgauskas - Projekto vadovas
+- Tomas Smagurauskas - HIS, ESPBI analitikos konsultantas
 
 ## Suinteresuotos šalys
 1. Jaunųjų gydytojų asociacija (JGA)
