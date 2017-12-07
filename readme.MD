@@ -73,15 +73,15 @@ Svarbu surinkti sistemos naudotojų komentarus.
 
 > Dėl lėtai veikiančios sistemos, vienos vaistininkės/vaistinės vedėjos manau naudingas pastebėjimas nustatant "diagnozę", kad kuo daugiau receptų asmeniui yra išrašyta anksčiau, tuo ilgiau krauna. Jei pvz zmogus pirma karta perka pgl el.receptą, tai užkrauna žymiai greičiau. O jei jau pirko kokius 8 kartus ir dar išrašyti kokie 3 receptai, tai be 15 min neužkraus...ir dar pridursiu, kad nuo užpraeito ketvirtadienio sakė jau nebuvo dienų kad išvis neužkrautų (kas vaistininkams jau didžiulė laimė). (Laima Šidlauskienė)
 
-
 # Projekto trūkumų išgryninimas
 Šioje dalyje siūlyčiau eiti prie esminių problemų gryninimo. 
 1. Interoperability
 2. Sistemos greitis
 3. Neefektyvūs programinės įrangos (duomenų bazės) pasirinkimas. Analizė: http://nbviewer.jupyter.org/gist/sirex/13420936108549cea62668521dedaffe
-
 4. Nepakankamas suinteresuotų šalių įtraukimas į projekto valdymą. M. Zimnickas: "Projektas nebuvo sekmingas, kadangi projekto valdyme daugiausiai dalyvavo biurokratai" siūlo grupes kuriose būtų atstovaujamos įvairios šalys. https://www.facebook.com/groups/1972865706318006/permalink/1973702002901043/ 
 
+# Idėjų atranka
+- https://docs.google.com/document/d/1oHx128ma4Un_uH3AU16IjrP6oZcuZbSzFxFYWGKH_WU/edit#
 
 # Kitos idėjos ir pasiūlymai.
 Čia dedame dar patvirtinimo/palaikymo negavusias idėjas.
@@ -96,4 +96,4 @@ ELEKTRONINĖS SVEIKATOS PASLAUGŲ IR BENDRADARBIAVIMO INFRASTRUKTŪROS INFORMACI
 - https://sam.lrv.lt/lt/veiklos-sritys/e-sveikata/elektronine-sveikatos-paslaugu-ir-bendradarbiavimo-infrastrukturos-informacine-sistema
 
 # Kodas 100 žiniasklaidoje
-- https://sam.lrv.lt/lt/veiklos-sritys/e-sveikata/elektronine-sveikatos-paslaugu-ir-bendradarbiavimo-infrastrukturos-informacine-sistema
+- ...
