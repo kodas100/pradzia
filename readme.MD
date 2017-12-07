@@ -64,6 +64,9 @@ Kiti duomenys, ką pavyko surinkti:
 - Concurrent user'ių būna iki kelių šimtų vienu metu.
 - Kiekvieną dieną RC veikimo ataskaitą siunčia į ministeriją, pej jie pasidalintų galėtumėm gauti. Bandėm įrodyti, kad gal viešai tiesiog tą statistiką įdėtų, nesėkmingai.
 
+## Išleidos Oracle
+http://nbviewer.jupyter.org/gist/sirex/13420936108549cea62668521dedaffe
+
 ## Sistemos naudotoju komentarai
 Svarbu surinkti sistemos naudotojų komentarus.
 
