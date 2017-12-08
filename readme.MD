@@ -62,11 +62,11 @@ Atnaujinti Lietuvos sveikatos apsaugos informacinę sistemą.
 Kiti duomenys, ką pavyko surinkti:
 - Šiuo metu naudojami 3 fiziniai Oracle DB serveriai, po 6 core'us, Enterprise licencijos (standartinė kaina $50k). 3x6x50k = $900k už licencijas. Šiuo metu vyksta/vyko konkursas nupirkti naujų core'ų ir naujų Oracle DB licencijų.
 - Platforma: JAVA SPRING ir kiti JAVA framework'ai, hibernate ORM.
-- Galėtumėm gauti labiausiai stabdančias "Slow queries", per ministeriją (nepasižimėjau kurią).
+- Galėtumėm gauti labiausiai stabdančias "Slow queries", per ministeriją (nepasižymėjau kurią).
 - Concurrent user'ių būna iki kelių šimtų vienu metu.
-- Kiekvieną dieną RC veikimo ataskaitą siunčia į ministeriją, pej jie pasidalintų galėtumėm gauti. Bandėm įrodyti, kad gal viešai tiesiog tą statistiką įdėtų, nesėkmingai.
+- Kiekvieną dieną RC veikimo ataskaitą siunčia į ministeriją, jei jie pasidalintų galėtumėm gauti. Bandėm įrodyti, kad gal viešai tiesiog tą statistiką įdėtų, nesėkmingai.
 
-## Išleidos Oracle
+## Išlaidos Oracle
 http://nbviewer.jupyter.org/gist/sirex/13420936108549cea62668521dedaffe
 
 ## Sistemos naudotoju komentarai
