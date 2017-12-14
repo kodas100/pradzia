@@ -14,7 +14,26 @@ Dalyviai:
 Tikslas: pristatymas kodas100, kaip veikiame, veiklos modelis, bendradarbiavimo galimybės su Nortal.
 
 Rezultatai:
-- ...
+- Grubiai eSveikata darbai prasidėjo nuo NESS1 ir NESS2 projektų dar 2005-2011 laikotarpyje. Pradėta buvo, užbaigta ne. Projektas palaidotas. Suinvestuota apie 9mln. EUR
+- 2011-2015 laikotarpyje buvo pradėta dirbti su esama eSveikata, tam skirta iš EU apie 26mln. EUR. Šiame laikotarpyje vienaip ar kitaip atsirado šios grandys: ESPBI, E-receptas, MeDVais ir kt.
+- Iš esmės finansavimą gavus 2011 darbai buvo pradėti 2013 metų paskutiniame ketvirtyje. T.y. NORTAL laimi konkursą ESPBI kūrimui.
+- 2015 metais darbus priduoda.
+- 2016 metais SAM vėl gauna EU paramą 28mln. EUR, kur juos panaudoti dar nenuspręsta. Terminas baigiasi 2020 metais.
+
+NORTAL pusė:
+- Darbai buvo atlikti pagal ESPBI IS specifikaciją (kaip ji surašyta mes jau spėjom susipažinti). T.y. iš esmės patenkintas interesas, darbai priduoti liko garantinis.
+- Garantinis už kurį buvo sumokėta papildomai baigiasi kitų metų antrame ketvirtyje.
+- Ligoninėms pradėjus naudotis ESPBI ir HIS išlindo bėdos, kurios iki šios dienos nėra sutvarkytos. Kodėl? Nes tai nėra garantiniai darbai. Iš esmės didžioji dalis darbų nurašomi palaikymui, optimizavimui ir jų niekas neatlieka. Jei kas nors nori, kad jie būtų atlikti, turi susimokėti ir tai tiesioginė ligoninių ir kitų suinteresuotų šalių atsakomybė. Mokėti nenori. Kodėl? Sužinosim paklausę, prielaidų šiame etape nedarysim. Išklausėme tik vieną pusę.
+
+Ar ten tikrai yra bug’ai, ar plėtiniai sužinosime priėję prie sistemos.
+
+Pastaba:  
+Kalbėti apie techninius klausimus Nortal nebuvo linkę, sakydami, jog tai neaktualu. Kad kai ką galima pataisyti savaičių bėgyje, bet jiems tai elementariai nepriklauso. Žodžiu laukiam kol pasibaigs garantinis. Atsiprašau už grubų išsireiškimą, bet skamba taip.
+
+Grėsmė:
+- Nortal pasibaigus garantiniam laikotarpiui ir iš jų neužsakant palaikymo, galimybių dirbti Lietuvoje nemato. Viskas tvarkoj. Tai privatus verslas, jis žiūrės savo intereso.
+- Pozicija dėl RC, kurie yra ESPBI, MeDVais ir E-recepto užsakovai, bei prižiūrėtojai buvo gana palanki, bet ne sykį pastebėta, kad jei jiems pritrūks resursų ar specialistų, viskas grius, bent jau taip mano Nortal Lietuvos padalinio darbuotojas. Tad tikrosios situacijos reiktų palaukti. Ar galima daryti prielaidą, jog 2018 metais eSveikata išnyks kaip išnyko NESS1 ir NESS2? Paliekam klausimą atvirą.
+
 
 ## 2017-12-06 - Registrų centras
 
