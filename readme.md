@@ -4,7 +4,7 @@
 
 Internete:
 - hashtag - #kodas100
-- web - https://kodas100.lt
+- web - http://kodas100.lt
 - FB atvira grupė - https://www.facebook.com/groups/kodas100/
 - FB oficialus puslapis - https://www.facebook.com/kodas100/
 
